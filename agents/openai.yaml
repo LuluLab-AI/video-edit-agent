@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Video Editor"
+  short_description: "Edit live-action footage into narrated vertical videos; replies follow the user language."
+  default_prompt: "Use $video-edit-agent to edit my live-action footage. Confirm narration audio or a script with an optional voice, then match shots, render variants, and check quality. Reply in the language of my task message while preserving the original audio and subtitle language."
