@@ -4,7 +4,7 @@ description: "Edit user supplied live-action footage into narrated vertical vide
 license: GPL-3.0-only
 metadata:
   slug: video-edit-agent
-  version: 5.0.0
+  version: 4.5.1
   displayName: AI Video Editor
   summary: Edit user supplied live-action footage into narrated vertical video variants.
   tags:

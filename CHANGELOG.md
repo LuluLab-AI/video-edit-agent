@@ -1,6 +1,6 @@
 # Changelog
 
-## 5.0.0 (2026-10-10, release candidate)
+## 4.5.1 (2026-10-10)
 
 - Rename the public Skill name, installation folder, invocation, and repository to `video-edit-agent`.
 - Keep the existing editing workflow, service request client identifier, and API contract unchanged.
